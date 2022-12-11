@@ -11,6 +11,7 @@ Data Was gotten from a #30days challenge platform
 # Data Transformation
 Tools Used 
 Data Cleaning was done on Excel
+
 Data Visualization was done on PowerBi
 
 
