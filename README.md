@@ -9,7 +9,8 @@ Possible reasons why they wont get to finals.
 Data Was gotten from a #30days challenge platform 
 
 # Data Transformation
-Tools Used 
+Tools Used
+-
 Data Cleaning was done on Excel
 
 Data Visualization was done on PowerBi
